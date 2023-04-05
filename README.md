@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ola-Yeenca
-- 👀 I’m interested in FrontEnd dev
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript and Ruby
-- 💞️ I’m looking to collaborate on any project that would help me learn more
+- 👀 I’m interested in Full Stack dev
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript and Ruby on Rails
+- 💞️ I’m looking to collaborate on any project that would help me learn more and help b uild my confidence in programming
 - 📫 You can reach out to me on twitter @Ola_Yeenca
 
 <!---
